@@ -1,0 +1,39 @@
+select komutu veirleri çekmemize ve sorgulamamıza yarayan bir komut
+selectten sonra çekeceğimiz kolonları yazıyoruz tüm kolonları istersek * yazıyoruz.
+eğer bir şart belirteceksek where şartını koyuyoruz.
+
+INSERT komutu bir tabloya yeni kayıtlar eklemek için kullandığımız bir komut.
+INSERT INTO TABLOADI(hangi tabloya kayıt yapacağımız) 
+UPDATE olan bir kaydı değiştirmeye ve güncellmeye yarıyor.
+
+DELETE komutu tabloları silmeye yarıyor.
+TRUNCATE komutu tabloyu ilk oluşturduğumuz haline dönüştürmeye yarıyor.
+
+DISTINC komutu tekrar eden satırları tekilleştirmek için kullandığımız bir komut.
+
+
+AGGREGATE Fonksiyonları:
+
+SUM ,MIN ,MAX,AVG,COUNT,
+
+
+TABLONUN BOYUTUNU ÖĞRENMEK:
+
+SP_SPACEUSED 'CUSTOMERS'
+
+
+SORGU YAPARKEN İSTATİSKLERE BAKMAK:
+SET STATISTICS IO ON
+
+İNDEX OLUŞTUTURKEN FİLL FACTOR DEĞERİ VERİRSEK İNDEX BOZULMALARININ ÖNÜNE GEÇMİŞ OLURUZ.
+
+İSTATİSTİKLERİ GÜNCELLEMEMİZ GEREKİR.
+BUNU YAPMAK İÇİN SP_UPDATESTATS KULLANIRSAK TÜM TABLOLARIN İSTATİSKLERİNİ GÜNCELLEMİŞ OLURUZ.
+
+VEYA 
+
+UPDATE STATISTICS CUSTOMERS
+DİYEREK SADECE CUSTOMERS TABLOSUNUN İSTATİSKLERİNİ GÜNCELLEMİŞ OLURZ.
+
+
+CREATE NONCLUSTERED INDEX IX1 ON CUSTOMERS ( NAMESURNAME)

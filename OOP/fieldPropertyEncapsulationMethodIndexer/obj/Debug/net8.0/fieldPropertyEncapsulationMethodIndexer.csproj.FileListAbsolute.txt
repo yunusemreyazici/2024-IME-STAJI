@@ -1,0 +1,15 @@
+C:\Users\yuemyaz\Desktop\staj\OOP\fieldPropertyEncapsulationMethodIndexer\bin\Debug\net8.0\fieldPropertyEncapsulationMethodIndexer.exe
+C:\Users\yuemyaz\Desktop\staj\OOP\fieldPropertyEncapsulationMethodIndexer\bin\Debug\net8.0\fieldPropertyEncapsulationMethodIndexer.deps.json
+C:\Users\yuemyaz\Desktop\staj\OOP\fieldPropertyEncapsulationMethodIndexer\bin\Debug\net8.0\fieldPropertyEncapsulationMethodIndexer.runtimeconfig.json
+C:\Users\yuemyaz\Desktop\staj\OOP\fieldPropertyEncapsulationMethodIndexer\bin\Debug\net8.0\fieldPropertyEncapsulationMethodIndexer.dll
+C:\Users\yuemyaz\Desktop\staj\OOP\fieldPropertyEncapsulationMethodIndexer\bin\Debug\net8.0\fieldPropertyEncapsulationMethodIndexer.pdb
+C:\Users\yuemyaz\Desktop\staj\OOP\fieldPropertyEncapsulationMethodIndexer\obj\Debug\net8.0\fieldPropertyEncapsulationMethodIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuemyaz\Desktop\staj\OOP\fieldPropertyEncapsulationMethodIndexer\obj\Debug\net8.0\fieldPropertyEncapsulationMethodIndexer.AssemblyInfoInputs.cache
+C:\Users\yuemyaz\Desktop\staj\OOP\fieldPropertyEncapsulationMethodIndexer\obj\Debug\net8.0\fieldPropertyEncapsulationMethodIndexer.AssemblyInfo.cs
+C:\Users\yuemyaz\Desktop\staj\OOP\fieldPropertyEncapsulationMethodIndexer\obj\Debug\net8.0\fieldPropertyEncapsulationMethodIndexer.csproj.CoreCompileInputs.cache
+C:\Users\yuemyaz\Desktop\staj\OOP\fieldPropertyEncapsulationMethodIndexer\obj\Debug\net8.0\fieldPropertyEncapsulationMethodIndexer.dll
+C:\Users\yuemyaz\Desktop\staj\OOP\fieldPropertyEncapsulationMethodIndexer\obj\Debug\net8.0\refint\fieldPropertyEncapsulationMethodIndexer.dll
+C:\Users\yuemyaz\Desktop\staj\OOP\fieldPropertyEncapsulationMethodIndexer\obj\Debug\net8.0\fieldPropertyEncapsulationMethodIndexer.pdb
+C:\Users\yuemyaz\Desktop\staj\OOP\fieldPropertyEncapsulationMethodIndexer\obj\Debug\net8.0\fieldPropertyEncapsulationMethodIndexer.genruntimeconfig.cache
+C:\Users\yuemyaz\Desktop\staj\OOP\fieldPropertyEncapsulationMethodIndexer\obj\Debug\net8.0\ref\fieldPropertyEncapsulationMethodIndexer.dll
+C:\Users\yuemyaz\Desktop\staj\OOP\fieldPropertyEncapsulationMethodIndexer\obj\Debug\net8.0\fieldPropertyEncapsulationMethodIndexer.sourcelink.json

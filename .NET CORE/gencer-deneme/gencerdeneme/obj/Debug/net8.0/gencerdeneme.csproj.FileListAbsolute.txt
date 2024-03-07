@@ -1,0 +1,14 @@
+C:\Users\yuemyaz\Desktop\staj\.net-core\gencer-deneme\gencerdeneme\bin\Debug\net8.0\gencerdeneme.exe
+C:\Users\yuemyaz\Desktop\staj\.net-core\gencer-deneme\gencerdeneme\bin\Debug\net8.0\gencerdeneme.deps.json
+C:\Users\yuemyaz\Desktop\staj\.net-core\gencer-deneme\gencerdeneme\bin\Debug\net8.0\gencerdeneme.runtimeconfig.json
+C:\Users\yuemyaz\Desktop\staj\.net-core\gencer-deneme\gencerdeneme\bin\Debug\net8.0\gencerdeneme.dll
+C:\Users\yuemyaz\Desktop\staj\.net-core\gencer-deneme\gencerdeneme\bin\Debug\net8.0\gencerdeneme.pdb
+C:\Users\yuemyaz\Desktop\staj\.net-core\gencer-deneme\gencerdeneme\obj\Debug\net8.0\gencerdeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuemyaz\Desktop\staj\.net-core\gencer-deneme\gencerdeneme\obj\Debug\net8.0\gencerdeneme.AssemblyInfoInputs.cache
+C:\Users\yuemyaz\Desktop\staj\.net-core\gencer-deneme\gencerdeneme\obj\Debug\net8.0\gencerdeneme.AssemblyInfo.cs
+C:\Users\yuemyaz\Desktop\staj\.net-core\gencer-deneme\gencerdeneme\obj\Debug\net8.0\gencerdeneme.csproj.CoreCompileInputs.cache
+C:\Users\yuemyaz\Desktop\staj\.net-core\gencer-deneme\gencerdeneme\obj\Debug\net8.0\gencerdeneme.dll
+C:\Users\yuemyaz\Desktop\staj\.net-core\gencer-deneme\gencerdeneme\obj\Debug\net8.0\refint\gencerdeneme.dll
+C:\Users\yuemyaz\Desktop\staj\.net-core\gencer-deneme\gencerdeneme\obj\Debug\net8.0\gencerdeneme.pdb
+C:\Users\yuemyaz\Desktop\staj\.net-core\gencer-deneme\gencerdeneme\obj\Debug\net8.0\gencerdeneme.genruntimeconfig.cache
+C:\Users\yuemyaz\Desktop\staj\.net-core\gencer-deneme\gencerdeneme\obj\Debug\net8.0\ref\gencerdeneme.dll
