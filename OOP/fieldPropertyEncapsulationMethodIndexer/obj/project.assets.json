@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yuemyaz\\Desktop\\staj\\OOP\\fieldPropertyEncapsulationMethodIndexer\\fieldPropertyEncapsulationMethodIndexer.csproj",
+      "projectUniqueName": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\OOP\\fieldPropertyEncapsulationMethodIndexer\\fieldPropertyEncapsulationMethodIndexer.csproj",
       "projectName": "fieldPropertyEncapsulationMethodIndexer",
-      "projectPath": "C:\\Users\\yuemyaz\\Desktop\\staj\\OOP\\fieldPropertyEncapsulationMethodIndexer\\fieldPropertyEncapsulationMethodIndexer.csproj",
+      "projectPath": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\OOP\\fieldPropertyEncapsulationMethodIndexer\\fieldPropertyEncapsulationMethodIndexer.csproj",
       "packagesPath": "C:\\Users\\yuemyaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yuemyaz\\Desktop\\staj\\OOP\\fieldPropertyEncapsulationMethodIndexer\\obj\\",
+      "outputPath": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\OOP\\fieldPropertyEncapsulationMethodIndexer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yuemyaz\\AppData\\Roaming\\NuGet\\NuGet.Config",

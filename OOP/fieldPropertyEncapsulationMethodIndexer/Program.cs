@@ -12,8 +12,8 @@ class Program
         ikinciobje.Name = "Mücahit";
         System.Console.WriteLine("İlk Objenin bilgileri " + ilkobje.Age + " " + ilkobje.Name);
         System.Console.WriteLine("ikinci Objenin bilgileri " + ikinciobje.Age + " " + ikinciobje.Name);
-
-    }
+        MyClass ThirdObject = new MyClass();
+        System.Console.WriteLine("Üçüncü Objenin bilgileri " + ThirdObject.Age + " " + ThirdObject.Name);}
 }
 
 

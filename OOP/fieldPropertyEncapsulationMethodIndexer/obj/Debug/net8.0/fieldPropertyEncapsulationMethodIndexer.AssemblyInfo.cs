@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fieldPropertyEncapsulationMethodIndexer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b18049180c573aee53f898abf634d618f19f657")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81934a572da3e7d94f53d6eefbf25629e08e1ef8")]
 [assembly: System.Reflection.AssemblyProductAttribute("fieldPropertyEncapsulationMethodIndexer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fieldPropertyEncapsulationMethodIndexer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
