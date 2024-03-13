@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yuemyaz\\Desktop\\staj\\.net-core\\gencer-deneme\\gencerdeneme\\gencerdeneme.csproj",
+      "projectUniqueName": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\.NET CORE\\gencer-deneme\\gencerdeneme\\gencerdeneme.csproj",
       "projectName": "gencerdeneme",
-      "projectPath": "C:\\Users\\yuemyaz\\Desktop\\staj\\.net-core\\gencer-deneme\\gencerdeneme\\gencerdeneme.csproj",
+      "projectPath": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\.NET CORE\\gencer-deneme\\gencerdeneme\\gencerdeneme.csproj",
       "packagesPath": "C:\\Users\\yuemyaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yuemyaz\\Desktop\\staj\\.net-core\\gencer-deneme\\gencerdeneme\\obj\\",
+      "outputPath": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\.NET CORE\\gencer-deneme\\gencerdeneme\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yuemyaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
