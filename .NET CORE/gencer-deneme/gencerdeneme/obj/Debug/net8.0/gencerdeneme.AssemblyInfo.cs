@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gencerdeneme")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d1eb9a74383679ecec36b8533b2f491cc748168")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a272306e38855611db48dddd892dd853cb85f47")]
 [assembly: System.Reflection.AssemblyProductAttribute("gencerdeneme")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gencerdeneme")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
