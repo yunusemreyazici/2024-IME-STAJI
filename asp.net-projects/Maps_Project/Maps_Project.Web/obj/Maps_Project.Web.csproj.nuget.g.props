@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\yuemyaz\.nuget\packages\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.9.1</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\yuemyaz\.nuget\packages\" />
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)serenity.scripts\6.9.5\buildTransitive\Serenity.Scripts.props" Condition="Exists('$(NuGetPackageRoot)serenity.scripts\6.9.5\buildTransitive\Serenity.Scripts.props')" />
+    <Import Project="$(NuGetPackageRoot)serenity.pro.theme\6.9.5\buildTransitive\Serenity.Pro.Theme.props" Condition="Exists('$(NuGetPackageRoot)serenity.pro.theme\6.9.5\buildTransitive\Serenity.Pro.Theme.props')" />
+    <Import Project="$(NuGetPackageRoot)serenity.extensions\6.9.5\buildTransitive\Serenity.Extensions.props" Condition="Exists('$(NuGetPackageRoot)serenity.extensions\6.9.5\buildTransitive\Serenity.Extensions.props')" />
+    <Import Project="$(NuGetPackageRoot)serenity.pro.extensions\6.9.5\buildTransitive\Serenity.Pro.Extensions.props" Condition="Exists('$(NuGetPackageRoot)serenity.pro.extensions\6.9.5\buildTransitive\Serenity.Pro.Extensions.props')" />
+    <Import Project="$(NuGetPackageRoot)serenity.assets\6.9.5\buildTransitive\Serenity.Assets.props" Condition="Exists('$(NuGetPackageRoot)serenity.assets\6.9.5\buildTransitive\Serenity.Assets.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.typescript.msbuild\4.9.5\build\Microsoft.TypeScript.MSBuild.props" Condition="Exists('$(NuGetPackageRoot)microsoft.typescript.msbuild\4.9.5\build\Microsoft.TypeScript.MSBuild.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_TypeScript_MSBuild Condition=" '$(PkgMicrosoft_TypeScript_MSBuild)' == '' ">C:\Users\yuemyaz\.nuget\packages\microsoft.typescript.msbuild\4.9.5</PkgMicrosoft_TypeScript_MSBuild>
+  </PropertyGroup>
+</Project>

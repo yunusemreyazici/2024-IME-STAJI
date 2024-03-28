@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\asp.net-projects\\Maps_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7DB30C-F9F6-4633-8AD7-4DE15650DA7E}|Maps_Project.Web\\Maps_Project.Web.csproj|c:\\users\\yuemyaz\\desktop\\staj\\2024-ime-staji\\asp.net-projects\\maps_project\\maps_project.web\\modules\\trip\\businesstrip\\businesstripform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7DB30C-F9F6-4633-8AD7-4DE15650DA7E}|Maps_Project.Web\\Maps_Project.Web.csproj|solutionrelative:maps_project.web\\modules\\trip\\businesstrip\\businesstripform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7DB30C-F9F6-4633-8AD7-4DE15650DA7E}|Maps_Project.Web\\Maps_Project.Web.csproj|c:\\users\\yuemyaz\\desktop\\staj\\2024-ime-staji\\asp.net-projects\\maps_project\\maps_project.web\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B7DB30C-F9F6-4633-8AD7-4DE15650DA7E}|Maps_Project.Web\\Maps_Project.Web.csproj|solutionrelative:maps_project.web\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7DB30C-F9F6-4633-8AD7-4DE15650DA7E}|Maps_Project.Web\\Maps_Project.Web.csproj|c:\\users\\yuemyaz\\desktop\\staj\\2024-ime-staji\\asp.net-projects\\maps_project\\maps_project.web\\modules\\trip\\businesstrip\\businesstriprow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7DB30C-F9F6-4633-8AD7-4DE15650DA7E}|Maps_Project.Web\\Maps_Project.Web.csproj|solutionrelative:maps_project.web\\modules\\trip\\businesstrip\\businesstriprow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessTripRow.cs",
+              "DocumentMoniker": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\asp.net-projects\\Maps_Project\\Maps_Project.Web\\Modules\\Trip\\BusinessTrip\\BusinessTripRow.cs",
+              "RelativeDocumentMoniker": "Maps_Project.Web\\Modules\\Trip\\BusinessTrip\\BusinessTripRow.cs",
+              "ToolTip": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\asp.net-projects\\Maps_Project\\Maps_Project.Web\\Modules\\Trip\\BusinessTrip\\BusinessTripRow.cs",
+              "RelativeToolTip": "Maps_Project.Web\\Modules\\Trip\\BusinessTrip\\BusinessTripRow.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:36:24.956Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\asp.net-projects\\Maps_Project\\Maps_Project.Web\\tsconfig.json",
+              "RelativeDocumentMoniker": "Maps_Project.Web\\tsconfig.json",
+              "ToolTip": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\asp.net-projects\\Maps_Project\\Maps_Project.Web\\tsconfig.json",
+              "RelativeToolTip": "Maps_Project.Web\\tsconfig.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T14:19:39.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessTripForm.cs",
+              "DocumentMoniker": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\asp.net-projects\\Maps_Project\\Maps_Project.Web\\Modules\\Trip\\BusinessTrip\\BusinessTripForm.cs",
+              "RelativeDocumentMoniker": "Maps_Project.Web\\Modules\\Trip\\BusinessTrip\\BusinessTripForm.cs",
+              "ToolTip": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\asp.net-projects\\Maps_Project\\Maps_Project.Web\\Modules\\Trip\\BusinessTrip\\BusinessTripForm.cs",
+              "RelativeToolTip": "Maps_Project.Web\\Modules\\Trip\\BusinessTrip\\BusinessTripForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:41:55.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

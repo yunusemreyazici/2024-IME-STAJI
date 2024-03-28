@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\asp.net-projects\\Maps_Project\\Maps_Project.Web\\Maps_Project.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\asp.net-projects\\Maps_Project\\Maps_Project.Web\\Maps_Project.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\asp.net-projects\\Maps_Project\\Maps_Project.Web\\Maps_Project.Web.csproj",
+        "projectName": "Maps_Project.Web",
+        "projectPath": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\asp.net-projects\\Maps_Project\\Maps_Project.Web\\Maps_Project.Web.csproj",
+        "packagesPath": "C:\\Users\\yuemyaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yuemyaz\\Desktop\\staj\\2024-IME-STAJI\\asp.net-projects\\Maps_Project\\Maps_Project.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yuemyaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packages.serenity.is/data-net-blgsayar-ltelksantcltdt/H88bp-Z0ekaJ5_KkMh4ghA/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[4.5.3.3, )"
+            },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.TypeScript.MSBuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.9.5, )"
+            },
+            "Serenity.Assets": {
+              "target": "Package",
+              "version": "[6.9.5, )"
+            },
+            "Serenity.Extensions": {
+              "target": "Package",
+              "version": "[6.9.5, )"
+            },
+            "Serenity.Net.Web": {
+              "target": "Package",
+              "version": "[6.9.5, )"
+            },
+            "Serenity.Pro.Coder": {
+              "target": "Package",
+              "version": "[6.9.5, )"
+            },
+            "Serenity.Pro.Extensions": {
+              "target": "Package",
+              "version": "[6.9.5, )"
+            },
+            "Serenity.Pro.Theme": {
+              "target": "Package",
+              "version": "[6.9.5, )"
+            },
+            "Serenity.Scripts": {
+              "target": "Package",
+              "version": "[6.9.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
