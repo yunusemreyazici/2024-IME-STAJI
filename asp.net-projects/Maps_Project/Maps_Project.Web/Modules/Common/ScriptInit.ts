@@ -3,7 +3,7 @@ import { gridDefaults } from "@serenity-is/sleekgrid";
 import { Authorization, Config, ErrorHandling } from "@serenity-is/corelib";
 import { IdleTimeout } from "@serenity-is/pro.extensions";
 import { siteLanguageList } from "./Helpers/LanguageList";
-
+Config.rootNamespaces.push('_Ext');
 Config.rootNamespaces.push('Maps_Project');
 siteLanguageList().then(value => EntityDialog.defaultLanguageList = () => value);
 gridDefaults.useCssVars = true;

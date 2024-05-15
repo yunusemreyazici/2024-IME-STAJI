@@ -22,7 +22,7 @@ public sealed partial class BusinessTripDetailRow : Row<BusinessTripDetailRow.Ro
     public int? BusinessTripId { get => fields.BusinessTripId[this]; set => fields.BusinessTripId[this] = value; }
 
     [DisplayName("Coordinate")]
-    public Stream Coordinate { get => fields.Coordinate[this]; set => fields.Coordinate[this] = value; }
+    public string Coordinate { get => fields.Coordinate[this]; set => fields.Coordinate[this] = value; }
 
     [DisplayName("Business Trip Title"), Origin(jBusinessTrip, nameof(BusinessTripRow.Title))]
     public string BusinessTripTitle { get => fields.BusinessTripTitle[this]; set => fields.BusinessTripTitle[this] = value; }

@@ -1,4 +1,4 @@
-﻿using Serenity.ComponentModel;
+using Serenity.ComponentModel;
 using System.ComponentModel;
 using System.IO;
 
@@ -11,5 +11,5 @@ public class BusinessTripDetailColumns
     [EditLink, DisplayName("Db.Shared.RecordId"), AlignRight]
     public int Id { get; set; }
     public string BusinessTripTitle { get; set; }
-    public Stream Coordinate { get; set; }
+    public string Coordinate { get; set; }
 }

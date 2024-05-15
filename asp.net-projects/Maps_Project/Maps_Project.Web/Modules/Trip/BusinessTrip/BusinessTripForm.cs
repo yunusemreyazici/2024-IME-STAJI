@@ -9,8 +9,7 @@ public class BusinessTripForm
     public string Title { get; set; }
     public string Description { get; set; }
 
-
-    [BusinessTripDetail]
+    [BusinessTripDetailEditor]
     public List <BusinessTripDetailRow> DetailList { get; set; }
 
 

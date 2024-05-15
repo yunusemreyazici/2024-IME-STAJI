@@ -7,5 +7,5 @@ namespace Maps_Project.Trip.Forms;
 [BasedOnRow(typeof(BusinessTripDetailRow), CheckNames = true)]
 public class BusinessTripDetailForm
 {
-    public Stream Coordinate { get; set; }
+    public string Coordinate { get; set; }
 }

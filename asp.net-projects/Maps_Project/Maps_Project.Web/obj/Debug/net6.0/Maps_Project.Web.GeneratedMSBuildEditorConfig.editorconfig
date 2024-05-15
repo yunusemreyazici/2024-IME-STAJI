@@ -46,6 +46,30 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xNZW1iZXJzaGlwXEFjY291bnRcU2lnblVwXFNpZ25VcFBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/yuemyaz/Desktop/staj/2024-IME-STAJI/asp.net-projects/Maps_Project/Maps_Project.Web/Modules/ServerTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xTZXJ2ZXJUeXBlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yuemyaz/Desktop/staj/2024-IME-STAJI/asp.net-projects/Maps_Project/Maps_Project.Web/Modules/_Ext/DevTools/CompareEntityToDB/CompareEntityToDBIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xfRXh0XERldlRvb2xzXENvbXBhcmVFbnRpdHlUb0RCXENvbXBhcmVFbnRpdHlUb0RCSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yuemyaz/Desktop/staj/2024-IME-STAJI/asp.net-projects/Maps_Project/Maps_Project.Web/Modules/_Ext/DevTools/EnumExproler/EnumExprolerIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xfRXh0XERldlRvb2xzXEVudW1FeHByb2xlclxFbnVtRXhwcm9sZXJJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yuemyaz/Desktop/staj/2024-IME-STAJI/asp.net-projects/Maps_Project/Maps_Project.Web/Modules/_Ext/DevTools/GenerateMigrationFromEntity/GenerateMigrationFromEntityIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xfRXh0XERldlRvb2xzXEdlbmVyYXRlTWlncmF0aW9uRnJvbUVudGl0eVxHZW5lcmF0ZU1pZ3JhdGlvbkZyb21FbnRpdHlJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yuemyaz/Desktop/staj/2024-IME-STAJI/asp.net-projects/Maps_Project/Maps_Project.Web/Modules/_Ext/DevTools/GenerateMigrationFromEntity/GenerateMigrationFromEntityMigrationViewer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xfRXh0XERldlRvb2xzXEdlbmVyYXRlTWlncmF0aW9uRnJvbUVudGl0eVxHZW5lcmF0ZU1pZ3JhdGlvbkZyb21FbnRpdHlNaWdyYXRpb25WaWV3ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yuemyaz/Desktop/staj/2024-IME-STAJI/asp.net-projects/Maps_Project/Maps_Project.Web/Modules/_Ext/DevTools/GenerateMigrationFromEntity/GenerateMigrationFromEntitySuccessMsg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xfRXh0XERldlRvb2xzXEdlbmVyYXRlTWlncmF0aW9uRnJvbUVudGl0eVxHZW5lcmF0ZU1pZ3JhdGlvbkZyb21FbnRpdHlTdWNjZXNzTXNnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/yuemyaz/Desktop/staj/2024-IME-STAJI/asp.net-projects/Maps_Project/Maps_Project.Web/Modules/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = TW9kdWxlc1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

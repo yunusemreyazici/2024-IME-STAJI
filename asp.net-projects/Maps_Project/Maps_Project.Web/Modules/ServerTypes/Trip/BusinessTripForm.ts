@@ -1,9 +1,10 @@
-﻿import { StringEditor, PrefixedContext, initFormType } from "@serenity-is/corelib";
+﻿import { BusinessTripDetailEditor } from "@/Trip/BusinessTripDetail/BusinessTripDetailEditor";
+import { StringEditor, PrefixedContext, initFormType } from "@serenity-is/corelib";
 
 export interface BusinessTripForm {
     Title: StringEditor;
     Description: StringEditor;
-    DetailList: StringEditor;
+    DetailList: BusinessTripDetailEditor;
 }
 
 export class BusinessTripForm extends PrefixedContext {
@@ -17,11 +18,12 @@ export class BusinessTripForm extends PrefixedContext {
             BusinessTripForm.init = true;
 
             var w0 = StringEditor;
+            var w1 = BusinessTripDetailEditor;
 
             initFormType(BusinessTripForm, [
                 'Title', w0,
                 'Description', w0,
-                'DetailList', w0
+                'DetailList', w1
             ]);
         }
     }

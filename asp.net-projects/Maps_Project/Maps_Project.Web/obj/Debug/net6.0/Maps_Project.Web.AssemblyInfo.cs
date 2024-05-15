@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Maps_Project.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63ef670c25dcf62fb8259864ee60073b687039ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c7279a57403251f154e385c3488fdf6bad06a6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Maps_Project.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Maps_Project.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

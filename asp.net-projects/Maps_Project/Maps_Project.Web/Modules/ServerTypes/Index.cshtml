@@ -1,0 +1,35 @@
+@{
+    ViewData["Title"] = "Leaflet editor sample";
+}
+
+@section Head {
+    <style>
+        .s-LeafletEditor {
+            width: 100%;
+            height: 600px;
+        }
+    </style>
+}
+
+@section ContentHeader {
+    <h1>@ViewData["Title"]<small></small></h1>
+}
+<div class="alert alert-info alert-dismissible s-sample-info">
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-hidden="true"></button>
+    <p>Sample for Leaflet</p>
+
+    <p class="s-sample-sources">
+        <b>Source Files:</b>
+        @Html.AdvancedSamplesSourceFile("Index.cshtml"),
+        @Html.AdvancedSamplesSourceFile("LeafletEditorPage.ts"),
+        @Html.AdvancedSamplesSourceFile("LeafletForm.cs")
+        <partial name="@MVC.Views.PremiumSourceWarning" />
+    </p>
+</div>
+
+<div class="panels-container"></div>
+
+<script type="module">
+    import pageInit from '@Html.ResolveWithHash(ESM.Modules.Editors.LeafletEditor.LeafletEditorPage)';
+    pageInit();
+</script>

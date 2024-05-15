@@ -3,7 +3,7 @@
 export interface BusinessTripDetailRow {
     Id?: number;
     BusinessTripId?: number;
-    Coordinate?: number[];
+    Coordinate?: string;
     BusinessTripTitle?: string;
 }
 
